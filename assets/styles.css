@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    display: flex;
+    justify-content: space-around;
+    margin: 50px;
+    border-bottom: 2px solid black;
+}
+
+main{
+text-align: center;
+}
+
+input{
+    margin: 20px;
+    width: 50%;
+}
+
+
+th, td{
+    width: 200px;
+}
+
+td button{
+    width: 200px;
+}
+
+.realizado{
+    background-color: green;
+}
+
+.no_realizado{
+    background-color: red;
+}
